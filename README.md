@@ -1,3 +1,5 @@
+# MUSIC DATABASES 
+
 This project focuses on analyzing a music playlist database using SQL to help the store understand its business growth. 
 
 We've written queries to answer specific questions.
